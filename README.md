@@ -16,7 +16,7 @@ every times you want delete a process just call
 >> crash(pid)
 
 you can manage 1M process in your software
-without lack of on performance
+without lack of performance
 
 each process work concurrency 
 and  communicate with msg
