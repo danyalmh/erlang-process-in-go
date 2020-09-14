@@ -10,7 +10,7 @@ each process have a << Pid >>
 each process have a mailbox/recipient
 each process NEVER fail your program
 
-** 'Let is Crash' ** ;-)
+** 'Let it Crash' ** ;-)
 
 every times you want delete a process just call 
 >> crash(pid)
