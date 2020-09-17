@@ -15,7 +15,7 @@ each process NEVER fail your program
 every times you want delete a process just call 
 >> crash(pid)
 
-you can manage 1M process in your software
+you can manage more than 1M process in your software
 without lack of performance
 
 each process work concurrency 
